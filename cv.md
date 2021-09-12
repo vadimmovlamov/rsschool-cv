@@ -22,11 +22,7 @@
 
 ---
 ## ABOUT ME
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое)
-
-Графический дизайнер с 2-х летним опытом работы, обладающий огромными арсеналом прочных навыков в HTML, CSS, пакет Adobe и Visual Art для создания привлекательных графических решений и достижения целей бренда. Ищу работу в компании с индивидуальным стилем, где смогу реализовывать свой потенциал, выполняя сложные и нестандартные задачи на результат. 
-
-Briefly about myself: analyst, researcher and leader, manager. One of my strengths is the ability to work and complete it. I always do my best to achieve my goals. The most important skills that I have developed during my studies and work are stress resistance, efficiency, punctuality and ability to meet deadlines, ability to learn and interest in achieving goals.
+Analyst, researcher and leader, manager. One of my strengths is the ability to work and complete it. I always do my best to achieve my goals. The most important skills that I have developed during my studies and work are stress resistance, efficiency, punctuality and ability to meet deadlines, ability to learn and interest in achieving goals.
 I know how to respond properly to various situations – the first  thing I do is analyzing, then I try to find a solution and  make the right decision in the end taking into consideration the risks that may arise.
 
 ---
@@ -40,8 +36,13 @@ I know how to respond properly to various situations – the first  thing I do i
 * Windows OS
 ---
 ## CODE EXAMPLE
-Примеры кода
-
+```
+function myLanguages(results) {
+  if (results.keys >= 60){
+    return results.name;
+  }
+}
+```
 ---
 ## EDUCATION AND COURSES
 
