@@ -1,1 +1,1 @@
-https://vadimmovlamov.github.io/rsschool-cv/
+https://youtu.be/WhGPwHaaJBM
